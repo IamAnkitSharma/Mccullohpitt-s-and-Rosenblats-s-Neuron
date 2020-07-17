@@ -53,7 +53,7 @@ for x1,_ in training_data:
 # In[90]:
 
 
-# we have to manually change the step function which is not right (how a neuron should work)
+# we have to manually change the threshold step function which is not right (how a neuron should work)
 # Rosenblat 
 
 
